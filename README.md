@@ -11,5 +11,5 @@ FormAddFriend: Renders a form for adding a new friend. It includes input fields 
 FormSplitBill: Displays a form for splitting a bill with a selected friend. It shows the selected friend's name and provides input fields for entering the bill value and the user's and friend's expenses. It also includes a dropdown menu for selecting who will pay the bill. A "Split Bill" button is available for submitting the form.
 
 Button: A reusable button component that can be used throughout the application. It receives a callback function for the onClick event and renders a button with the provided text.
-
+feat:update and finish project
 
